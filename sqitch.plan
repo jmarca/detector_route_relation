@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=detector_route_relations
+%uri=https://github.com/jmarca/detector_route_relations
+
+drr [min_detector_distance:min_dist craigs_functions:craigs_functions canonical_direction:canonical_direction] 2016-04-20T14:49:35Z James E. Marca <james@activimetrics.com> # detector to route snap
+indices [drr] 2016-04-22T23:19:22Z James E. Marca <james@activimetrics.com> # Fix reprojected geometry mismatch
