@@ -1,0 +1,22 @@
+{
+  "name": "detector_route_relation",
+  "version": "1.0.0",
+  "description": "Link up detectors to route relations",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/detector_route_relation.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/detector_route_relation/issues"
+  },
+  "homepage": "https://github.com/jmarca/detector_route_relation#readme"
+}
