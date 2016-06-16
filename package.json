@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/jmarca/detector_route_relation/issues"
   },
-  "homepage": "https://github.com/jmarca/detector_route_relation#readme"
+  "homepage": "https://github.com/jmarca/detector_route_relation#readme",
+  "dependencies": {
+    "canonical_direction": "github:jmarca/canonical_direction",
+    "craigs_functions": "github:jmarca/craigs_functions",
+    "min_detector_distance": "github:jmarca/min_detector_distance"
+  }
 }
